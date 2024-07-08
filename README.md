@@ -107,3 +107,6 @@ python main.py \
 
 ## 其它说明
 在BF16精度，BS 1的情况下，微调 [Florence-2-large](https://huggingface.co/microsoft/Florence-2-large) 大约需要 <22G显存
+
+## 感谢
+https://github.com/andimarafioti/florence2-finetuning
